@@ -1,6 +1,6 @@
 # Level 1
 
-some text
+For JAVASCRIPT assignment, click on index.html above
 
 ## Level 2
 
