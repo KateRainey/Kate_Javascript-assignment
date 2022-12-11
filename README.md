@@ -1,6 +1,6 @@
-# Level 1
+# Javascript assignment
 
-For JAVASCRIPT assignment, click here: https://katerainey.github.io/Kate_Javascript-assignment/ 
+For Kate's Javascript assignment, click link: https://katerainey.github.io/Kate_Javascript-assignment/ 
 
 ## Level 2
 
