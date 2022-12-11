@@ -1,6 +1,6 @@
-# JavaScript Basics assignment:
+# JavaScript Basics Assignment:
 
-### For Kate's Javascript assignment, click link: 
+### Kate's JavaScript Basics Assignment can be viewed via GitHub Pages by clicking the link below.  
 
 https://katerainey.github.io/Kate_Javascript-assignment/ 
 
